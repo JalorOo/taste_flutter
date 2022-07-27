@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.libv.taste">
    <application
-        android:label="taste"
+        android:label="味道"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
